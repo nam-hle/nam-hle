@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on web development
-- 🌱 I’m currently learning 
+- 🔭 I’m currently working on Frontend Development
+- 🌱 I’m currently learning everything to become a better coder ;)
 - 👯 I’m looking to collaborate on all you guys!
 - 📫 How to reach me: namhoangle.dev@gmail.com
 
